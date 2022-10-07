@@ -1,6 +1,5 @@
 name: CJFR-env
 
 dependencies:
-  - python=3.4
   - pandas
   - plotly
